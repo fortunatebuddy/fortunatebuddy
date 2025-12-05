@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">A passionate Full Stack Developer & AI Enthusiast</h3>
+<h3 align="center">For where two or three are gathered together in my name, there am I in the midst of them.</h3>
 
 <br>
 
