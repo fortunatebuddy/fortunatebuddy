@@ -1,49 +1,61 @@
 <div align="center">
-  <h1 style="font-size: 50px; font-weight: bold;">Hi, I'm <span style="color:#4A90E2;">FortunateBuddy</span></h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React;Code+with+Passion" alt="Typing SVG" />
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+FortunateBuddy!;Code+is+Poetry,+Architecture+is+Art.;Welcome+to+my+Github+World.&center=true&size=27&font=Fira+Code&color=38BDAE">
   </a>
 </div>
 
-<br/>
+<h3 align="center">A passionate Full Stack Developer & AI Enthusiast</h3>
+
+<br>
 
 <div align="center">
-  <p style="font-size: 18px; max-width: 600px; line-height: 1.8;">
-    🔭 <b>Working on</b> Full Stack Projects &nbsp;|&nbsp; 
-    🌱 <b>Learning</b> AI & Architecture<br/>
-    🎮 <b>Hobby</b> CSGO / Valorant / LoL &nbsp;|&nbsp; 
-    📫 <b>Contact</b> fortunatebuddy0@gmail.com
-  </p>
-</div>
+  <img width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fortunatebuddy&theme=tokyonight&hide_border=true" height="150" />
+  &nbsp;&nbsp;
+  <img width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="transform: scaleX(-1);" /> </div>
 
-<br/>
-
-<h3 align="center">🛠️ Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <br/>
-  <div style="margin-top: 5px;">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </div>
-</div>
-
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fortunatebuddy&show_icons=true&theme=buefy&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunatebuddy&layout=compact&theme=buefy&hide_border=true&card_width=300" height="160" />
+  <a href="https://github.com/fortunatebuddy"><img src="https://img.shields.io/badge/GitHub-FortunateBuddy-181717?style=flat-square&logo=github" /></a>&emsp;
+  <a href="mailto:fortunatebuddy0@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&emsp;
+  <a href="https://space.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-B站-FB7299?style=flat-square&logo=bilibili&logoColor=white" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=fortunatebuddy&label=Views&color=38BDAE&style=flat-square" alt="访问量" />
 </div>
 
+<br>
+
 <div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortunatebuddy&theme=buefy&hide_border=true" height="140" />
-  <br/><br/>
-  <img src="https://github.com/fortunatebuddy/fortunatebuddy/blob/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fortunatebuddy&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
+
+<br>
+
+<div align="center">
+  <table style="width:100%; border:none;">
+    <tr>
+      <td align="center" width="50%">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=fortunatebuddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+      </td>
+      <td align="center" width="50%">
+        <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunatebuddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=fortunatebuddy&theme=tokyonight&hide_border=true&area=true&bg_color=00000000" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/fortunatebuddy/fortunatebuddy/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake" />
+</div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlign=50&fontAlignY=40&desc=Have%20a%20nice%20day&descAlign=50&descSize=20&descAlignY=60&animation=twinkling">
+</p>
