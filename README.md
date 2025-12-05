@@ -49,12 +49,19 @@
 📊 GitHub Stats (Summer Theme)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fortunatebuddy&show_icons=true&theme=summer&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunatebuddy&layout=compact&theme=summer&card_width=320" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=fortunatebuddy&show_icons=true&theme=summer&count_private=true" height="150" alt="stats graph" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunatebuddy&layout=compact&theme=summer&card_width=320" height="150" alt="languages graph" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortunatebuddy&theme=summer&hide_border=false" height="150" alt="streak graph" />
+  <br/> <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortunatebuddy&theme=summer&hide_border=false" height="150" alt="streak graph" />
+  </a>
 </div>
 
 ---
