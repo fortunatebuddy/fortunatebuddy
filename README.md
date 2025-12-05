@@ -1,74 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=fortunatebuddy&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Code%20with%20Passion&descAlignY=55&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=280&section=header&text=FortunateBuddy&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Code%20.%20Life%20.%20Belief&descAlignY=60&descAlign=60" width="100%" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77F00&background=00000000&center=true&vCenter=true&width=480&lines=For+where+two+or+three+are+gathered;together+in+my+name,+there+am+I;in+the+midst+of+them." alt="Typing SVG" />
-</h3>
-
 <div align="center">
-
-<a href="https://github.com/fortunatebuddy" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://space.bilibili.com/" target="_blank">
-<img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
-</a>
-<a href="mailto:your-email@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=For+where+two+or+three+are+gathered;together+in+my+name,+there+am+I;in+the+midst+of+them." alt="Typing SVG" />
+  </a>
 </div>
 
----
-⚡️ About Me
-
-- 🔭 I’m currently working on Full Stack Projects
-- 🌱 I’m currently learning AI & Architecture
-- 💬 Ask me about Java, Python, React
-- ⚡ Fun fact: CSGO 无畏契约 英雄联盟
-
----
-
-🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 Working on <b>Full Stack Projects</b></li>
+        <li>🌱 Learning <b>AI & Architecture</b></li>
+        <li>💬 Techs: <b>Java, Python, React</b></li>
+        <li>🎮 Hobby: <b>CSGO / Valorant / LoL</b></li>
+        <li>📫 Contact: <b>your-email@gmail.com</b></li>
+      </ul>
+      
+      <h3>🛠️ Tech Stack</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <br/>
+      <div style="margin-top: 10px;">
+        <a href="https://space.bilibili.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white" />
+        </a>
+      </div>
+    </td>
+
+    <td width="50%" valign="top" align="center">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=fortunatebuddy&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0,000000,000000" width="100%" />
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunatebuddy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0,000000,000000" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🔥 Contributions</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortunatebuddy&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
 </div>
 
----
-
-📊 GitHub Stats (Summer Theme)
+<br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=fortunatebuddy&show_icons=true&theme=summer&count_private=true" height="150" alt="stats graph" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fortunatebuddy&layout=compact&theme=summer&card_width=320" height="150" alt="languages graph" />
-  </a>
+  <img src="https://github.com/fortunatebuddy/fortunatebuddy/blob/output/github-contribution-grid-snake.svg" width="100%" alt="snake" />
 </div>
 
 <div align="center">
-  <br/> <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fortunatebuddy&theme=summer&hide_border=false" height="150" alt="streak graph" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%" />
 </div>
-
----
-
-🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/fortunatebuddy/fortunatebuddy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
